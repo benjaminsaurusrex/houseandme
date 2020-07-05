@@ -13,26 +13,26 @@ code {
     monospace;
 }
 
-.color-dark {
-  color: rgb(197, 75, 57);
-}
-
-.bg-dark {
-  background: #24ad97;
-}
-
 .color-main {
-  color: rgb(92, 183, 54);
-}
-
-.bg-main {
-  background: #4efadd;
+  color: rgb(255, 239, 200);
 }
 
 .color-alt {
-  color: #ad3f13;
+  color: rgb(92, 183, 54);
+}
+
+.color-alt-2 {
+  color: rgb(197, 75, 57);
+}
+
+.bg-main {
+  background: rgb(255, 239, 200);
 }
 
 .bg-alt {
-  background: #ad3f13;
+  background: rgb(92, 183, 54);
+}
+
+.bg-alt-2 {
+  background: rgb(197, 75, 57);
 }

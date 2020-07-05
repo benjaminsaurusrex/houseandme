@@ -9,16 +9,19 @@ export const AppRoot: React.FC = () => {
           <span role="img" aria-label="house emoji">
             🏡{" "}
           </span>
-          <span className="color-main">house</span>
-          <span className="color-dark">and</span>
-          <span className="color-main">me</span>
+          <span className="color-alt">house</span>
+          <span className="color-alt-2">and</span>
+          <span className="color-alt">me</span>
           <span role="img" aria-label="house emoji">
             {" "}
             🏡
           </span>
         </h1>
       </div>
-      <main className="app-root__main">
+      <main className="app-root__main color-main">
+        <span role="img" aria-label="construction emoji">
+          🏗️
+        </span>{" "}
         Under construction!{" "}
         <span role="img" aria-label="construction emoji">
           🏗️
