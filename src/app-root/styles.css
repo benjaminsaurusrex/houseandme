@@ -1,0 +1,19 @@
+.app-root {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+}
+
+.app-root__header {
+  font-family: "Wellfleet", cursive;
+  font-size: 3rem;
+  font-style: normal;
+  text-decoration: none;
+}
+
+.app-root__main {
+  color: white;
+  font-size: 2rem;
+}
